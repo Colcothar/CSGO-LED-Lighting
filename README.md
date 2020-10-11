@@ -5,12 +5,12 @@ Magic home LED strips set depending on state of CSGO game.
 Prerequisites: MagicHomeApi, CSGO-GSI
 
 
-**Team**
-Blue - CT\
+**Team**<br/>
+Blue - CT<br/>
 Orange - T
 
-**Bomb**
-Red- Bomb planted\ 
-Flashing Red - 10 secs left\
-White - 4 seconds left\
+**Bomb**<br/>
+Red- Bomb planted<br/>
+Flashing Red - 10 secs left<br/>
+White - 4 seconds left
 
